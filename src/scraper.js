@@ -130,7 +130,7 @@ const scrapeData = async () => {
     const browser = await configureBrowser();
     const page = await browser.newPage();
     const url = 'https://siiauescolar.siiau.udg.mx/wal/sspseca.forma_consulta';
-    let buildingName = "DUCT1";
+    let buildingName = "DUCT2";
     const fileName = `${buildingName}.json`
     const filePath = path.join(__dirname, './data/', fileName);
     
@@ -141,7 +141,7 @@ const scrapeData = async () => {
     
 
     const result = {
-        DUCT1: await fetchData(buildingName)
+        DUCT2: await fetchData(buildingName)
     };
     
     console.log("===============================================");
