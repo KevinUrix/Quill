@@ -1,0 +1,1784 @@
+{
+  "DUCT2": [
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ANALISIS DE ALGORITMOS"
+      },
+      "professor": "LOPEZ ARCE DELGADO, JORGE ERNESTO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ANALISIS DE ALGORITMOS"
+      },
+      "professor": "HERNANDEZ CASAS, ANGEL TONATIUH"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "ANALISIS DE ALGORITMOS"
+      },
+      "professor": "MARTINEZ SOLTERO, ERASMO GABRIEL"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "PATIÑO RUIZ, ROBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "LOPEZ ARCE DELGADO, JORGE ERNESTO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "MEZA ESPINOSA, JOSE JUAN"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "MORALES RAMIREZ, THELMA ISABEL"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "MEZA ESPINOSA, JOSE JUAN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1655",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "VALDES LOPEZ, JULIO ESTEBAN"
+    },
+    {
+      "data": {
+        "schedule": "1700-2055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "VALDES LOPEZ, JULIO ESTEBAN"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "professor": "PATIÑO RUIZ, ROBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ARREOLA GONZALEZ, MAURICIO RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "MARISCAL LUGO, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ARENAS YERENA, CARLOS DARIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ARENAS YERENA, CARLOS DARIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ARENAS YERENA, CARLOS DARIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ARENAS YERENA, CARLOS DARIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "PEREZ TORRES, GRISELDA"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "ESTRADA GUZMAN, ELSA"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "BASES DE DATOS"
+      },
+      "professor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+    },
+    {
+      "data": {
+        "schedule": "1100-1455",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "COMPILADORES"
+      },
+      "professor": "HERNANDEZ ANDRADE, JORGE FAUSTO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "CONTROL I"
+      },
+      "professor": "RUIZ VELAZQUEZ, EDUARDO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1255",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "DISEÑO ESTADISTICO Y EXPERIMENTAL"
+      },
+      "professor": "PEÑA PEREZ NEGRON, ADRIANA"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "GUTIERREZ HERNANDEZ, ALFREDO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1455",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "DAVALOS BOITES, MICHEL"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "GUERRERO CARLOS, ANA JAZMIN"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "GUTIERREZ HERNANDEZ, ALFREDO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "MUÑOZ GOMEZ, LUIS ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "MUÑOZ GOMEZ, LUIS ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "GALVEZ LOPEZ, HECTOR ALEJANDRO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "LUPERCIO CORONEL, RAMIRO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "ZAMORA RAMOS, VICTOR MANUEL"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "MARISCAL LUGO, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1455",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "ESTRUCTURAS DE DATOS"
+      },
+      "professor": "ORTEGA SANCHEZ, NOE"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "NAVARRO VELAZQUEZ, MARIO ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "BECERRA ALVAREZ, EDWIN CHRISTIAN"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ORTIZ PIMENTEL, BELEN ANABETT"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "DAVALOS BOITES, MICHEL"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ARANGUREN NAVARRO, ITZEL NIASANDIU"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "LOPEZ CISNEROS, JUAN JOSE"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ROMERO GASTELU, MARIA ELENA"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ROMERO GASTELU, MARIA ELENA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ROSARIO, PATRICIA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ROSARIO, PATRICIA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ROSARIO, PATRICIA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ROSARIO, PATRICIA"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ROSARIO, PATRICIA"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "MARQUEZ FRAUSTO, TERESA GABRIELA"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "LOPEZ LUQUIN, JESUS ANTONIO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1255",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "LANDA HORTA, DANIEL OMAR"
+    },
+    {
+      "data": {
+        "schedule": "0900-1255",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "HERNANDEZ ANDRADE, JORGE FAUSTO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "FUNDAMENTOS DE PROGRAMACION"
+      },
+      "professor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "INGENIERIA DE CONTROL"
+      },
+      "professor": "RUIZ VELAZQUEZ, EDUARDO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "LUPERCIO CORONEL, RAMIRO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "MORALES RAMIREZ, THELMA ISABEL"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "CAMACHO SANTILLAN, VERONICA"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "GIL RIVERA, RUBEN ADRIAN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "LARA LOPEZ, GRACIELA"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "INGENIERIA DE SOFTWARE"
+      },
+      "professor": "LARA LOPEZ, GRACIELA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION DE BAJO NIVEL"
+      },
+      "professor": "MEZA ESPINOSA, JOSE JUAN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION DE BAJO NIVEL"
+      },
+      "professor": "MEZA ESPINOSA, JOSE JUAN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "PROGRAMACION DE BAJO NIVEL"
+      },
+      "professor": "RAMIREZ HERNANDEZ, NORMA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION DE BAJO NIVEL"
+      },
+      "professor": "MARTINEZ LOPEZ, VALENTIN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "PROGRAMACION DE BAJO NIVEL"
+      },
+      "professor": "ISLAS TOSKI, MIGUEL ANGEL ALEJANDRO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "CAMACHO SANTILLAN, VERONICA"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "MARQUEZ FRAUSTO, TERESA GABRIELA"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "LOPEZ LOPEZ, LAURA"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GUERRERO CARLOS, ANA JAZMIN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1455",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "ESQUIVEL TORRES, SARA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "LOPEZ LUQUIN, JESUS ANTONIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "MUÑOZ GOMEZ, LUIS ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "SANCHEZ SANCHEZ, OSCAR DIDIER"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "CAMACHO SANTILLAN, VERONICA"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "LOPEZ LUQUIN, JESUS ANTONIO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "SANCHEZ ROMERO, CARLOS ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "LOPEZ CISNEROS, JUAN JOSE"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "SANCHEZ ROMERO, CARLOS ALBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "PROGRAMACION ESTRUCTURADA"
+      },
+      "professor": "GOMEZ VEGA, SERGIO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "VEGA MALDONADO, SABRINA LIZBETH"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "MARISCAL LUGO, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "MARISCAL LUGO, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ORTEGA SANCHEZ, NOE"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ESQUIVEL TORRES, SARA"
+    },
+    {
+      "data": {
+        "schedule": "1500-1855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ORTEGA SANCHEZ, NOE"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "RODRIGUEZ PIMIENTA, CRISTINA GUADALUPE"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "RODRIGUEZ PIMIENTA, CRISTINA GUADALUPE"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "RODRIGUEZ PIMIENTA, CRISTINA GUADALUPE"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "RODRIGUEZ PIMIENTA, CRISTINA GUADALUPE"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+    },
+    {
+      "data": {
+        "schedule": "0900-1255",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "LOPEZ FRANCO, LUIS EDUARDO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1255",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "LOPEZ FRANCO, LUIS EDUARDO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "PROGRAMACION ORIENTADA A OBJETOS"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MALDONADO MERCADO, JOSE RUBEN"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "JIMENEZ RODRIGUEZ, MARIO"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "JIMENEZ RODRIGUEZ, MARIO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MALDONADO MERCADO, JOSE RUBEN"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MALDONADO MERCADO, JOSE RUBEN"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MORALES GONZALEZ, LEOPOLDO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MORALES GONZALEZ, LEOPOLDO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MORALES GONZALEZ, LEOPOLDO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "MORALES GONZALEZ, LEOPOLDO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "PROGRAMACION PARA INTERNET"
+      },
+      "professor": "JIMENEZ RODRIGUEZ, MARIO"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "SEMINARIO DE PROBLEMAS DE MODELADO Y SIMULACION DE SISTEMAS"
+      },
+      "professor": "SOLIS PERALES, GUALBERTO CELESTINO"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "HERRERA LUJAN, ZOILA LILIANA"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "SEMINARIO DE PROBLEMAS DE MODELADO Y SIMULACION DE SISTEMAS"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE PROBLEMAS DE CONTROL I"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "GARCIA GUTIERREZ, VICTOR"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "ORTIZ PIMENTEL, BELEN ANABETT"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "SEMINARIO DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "GOMEZ VEGA, SERGIO"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "SEMINARIO DE PROBLEMAS DE ALGORITMIA"
+      },
+      "professor": "MARTINEZ SOLTERO, ERASMO GABRIEL"
+    },
+    {
+      "data": {
+        "schedule": "1300-1655",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE PROBLEMAS DE ALGORITMIA"
+      },
+      "professor": "HERNANDEZ ANDRADE, JORGE FAUSTO"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "SEMINARIO DE PROBLEMAS DE ALGORITMIA"
+      },
+      "professor": "DAVALOS BOITES, MICHEL"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE PROBLEMAS DE ALGORITMIA"
+      },
+      "professor": "ASCENCIO PIÑA, CESAR RODOLFO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE PROBLEMAS DE ESTRUCTURA DE DATOS II"
+      },
+      "professor": "BACILIO NAVARRO, HECTOR MISAEL"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . . . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "MEZA ESPINOSA, JOSE JUAN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "LOPEZ FRANCO, MICHEL EMANUEL"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "GOMEZ VEGA, SERGIO"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". . I . V .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS DE RED"
+      },
+      "professor": "GUTIERREZ AVILES, LUIS HEBERTO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE ESTRUCTURAS DE DATOS II"
+      },
+      "professor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE USO, ADAPTACION, EXPLOTACION DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+    },
+    {
+      "data": {
+        "schedule": "1500-1855",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I"
+      },
+      "professor": "MARTINEZ LOPEZ, VALENTIN"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC06",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE INGENIERIA DE SOFTWARE I"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "ROSALES MARTINEZ, JAVIER"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS"
+      },
+      "professor": "RIVERA AGUILAR, BEATRIZ ADRIANA"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE ALGORITMIA"
+      },
+      "professor": "LOPEZ CISNEROS, JUAN JOSE"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE INGENIERIA DE SOFTWARE I"
+      },
+      "professor": "MEDELLIN SERNA, LUIS ANTONIO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II"
+      },
+      "professor": "MUÑOZ MENDOZA, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC03",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE ESTRUCTURAS DE DATOS I"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "1100-1455",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE INGENIERIA DE SOFTWARE I"
+      },
+      "professor": "GIL RIVERA, RUBEN ADRIAN"
+    },
+    {
+      "data": {
+        "schedule": "0700-1055",
+        "days": ". . . . . S",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE INGENIERIA DE SOFTWARE I"
+      },
+      "professor": "GIL RIVERA, RUBEN ADRIAN"
+    },
+    {
+      "data": {
+        "schedule": "1900-2055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE ESTRUCTURAS DE DATOS II"
+      },
+      "professor": "MARISCAL LUGO, LUIS FELIPE"
+    },
+    {
+      "data": {
+        "schedule": "0700-0855",
+        "days": "L . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "MORALES LOPEZ, LUIS ANGEL"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "SEMINARIO DE SOLUCION DE PROBLEMAS DE PROGRAMACION"
+      },
+      "professor": "SANCHEZ ESTRADA, JAIRO CAIN"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC04",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "GUEVARA GALINDO, GILBERTO SIMON"
+    },
+    {
+      "data": {
+        "schedule": "1100-1255",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". . I . . .",
+        "building": "DUCT2",
+        "classroom": "LC09",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . . V .",
+        "building": "DUCT2",
+        "classroom": "LC02",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+    },
+    {
+      "data": {
+        "schedule": "1700-1855",
+        "days": ". M . . . .",
+        "building": "DUCT2",
+        "classroom": "LC07",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "VALDES LOPEZ, JULIO ESTEBAN"
+    },
+    {
+      "data": {
+        "schedule": "1500-1655",
+        "days": ". . . J . .",
+        "building": "DUCT2",
+        "classroom": "LC05",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "VALDES LOPEZ, JULIO ESTEBAN"
+    },
+    {
+      "data": {
+        "schedule": "0900-1055",
+        "days": ". M . J . .",
+        "building": "DUCT2",
+        "classroom": "LC08",
+        "course": "SISTEMAS OPERATIVOS"
+      },
+      "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+    },
+    {
+      "data": {
+        "schedule": "1300-1455",
+        "days": ". . I . V .",
+        "building": "DUCT2",
+        "classroom": "LC10",
+        "course": "VIDEOJUEGOS EN RED"
+      },
+      "professor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+    }
+  ]
+}
